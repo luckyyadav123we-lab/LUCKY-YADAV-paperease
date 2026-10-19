@@ -1,0 +1,6 @@
+{
+  "name": "PaperEase — All-in-One PDF, Image & Document Conversion SaaS",
+  "description": "Convert, edit, compress, organize, and secure documents and images in one fast, private workspace. Real processing, no file limits on pro, and instant valid downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
